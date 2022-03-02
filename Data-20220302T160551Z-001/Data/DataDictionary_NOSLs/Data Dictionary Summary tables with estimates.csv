@@ -1,0 +1,12 @@
+Column name,Column description
+[Naval Office District][Entries or Clearances] Summary,This lists the year of the summary.
+WI,Value of goods to (for clearances) or from (for entrances) the West Indies
+NA,Value of goods to (for clearances) or from (for entrances) North America
+GB,Value of goods to (for clearances) or from (for entrances) Great Britain
+IRE,Value of goods to (for clearances) or from (for entrances) Ireland
+NEU,Value of goods to (for clearances) or from (for entrances) Northern Europe
+SEU,Value of goods to (for clearances) or from (for entrances) Southern Europe
+AFR,Value of goods to (for clearances) or from (for entrances) from Africa
+UNK,Value of goods to (for clearances) or from (for entrances) Unknown ports/region
+SUM TOTAL,Sum of the value of goods to or from all regions in that year
+Check From Page,This was something used by the data compiler to check accuracy; I'm not sure what.
