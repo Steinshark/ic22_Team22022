@@ -1,0 +1,806 @@
+year,good,value,movement_type
+sv,Cotton,0,EN
+sv,Molasses,196,EN
+sv,Molasses,144,EN
+sv,Rum,21,EN
+sv,Rum,280,EN
+sv,Rum,135,EN
+sv,Salt,1236,EN
+sv,Sugar,63,EN
+sv,Sugar,42,EN
+sv,Sugar,231,EN
+sv,Wine,59,EN
+sv,Cheese,0,EN
+sv,Indigo,0,EN
+sv,Molasses,24,EN
+sv,Molasses,14,EN
+sv,Molasses,167,EN
+sv,Rum,93,EN
+sv,Rum,282,EN
+sv,Rum,649,EN
+sv,Salt,80,EN
+sv,Sugar,72,EN
+sv,Sugar,397,EN
+sv,Sugar,337,EN
+sv,Wine,28,EN
+sv,Cotton,0,EN
+sv,Molasses,41,EN
+sv,Molasses,106,EN
+sv,Molasses,11,EN
+sv,Rum,207,EN
+sv,Rum,312,EN
+sv,Rum,186,EN
+sv,Salt,124,EN
+sv,Salt,522,EN
+sv,Sugar,12,EN
+sv,Sugar,105,EN
+sv,Sugar,371,EN
+sv,Sugar,101,EN
+sv,Wine,3,EN
+sv,Wrought iron,0,EN
+sv,Cheese,0,EN
+sv,Cotton,0,EN
+sv,Molasses,1096,EN
+sv,Molasses,184,EN
+sv,Molasses,2348,EN
+sv,Rum,109,EN
+sv,Rum,67,EN
+sv,Rum,234,EN
+sv,Salt,153,EN
+sv,Sugar,49,EN
+sv,Sugar,115,EN
+sv,Wine,1456,EN
+sv,Cotton,13,EN
+sv,Ginger,0,EN
+sv,Molasses,30,EN
+sv,Molasses,121,EN
+sv,Molasses,3,EN
+sv,Plank,1,EN
+sv,Rum,243,EN
+sv,Rum,687,EN
+sv,Rum,84,EN
+sv,Salt,5,EN
+sv,Salt,369,EN
+sv,Salt,3,EN
+sv,Sugar,41,EN
+sv,Sugar,38,EN
+sv,Sugar,402,EN
+sv,Wine,13,EN
+sv,Cheese,0,EN
+sv,Coffee,0,EN
+sv,Coffee,0,EN
+sv,Cotton,4,EN
+sv,Cotton,33,EN
+sv,Ginger,0,EN
+sv,Indigo,0,EN
+sv,Molasses,55,EN
+sv,Molasses,245,EN
+sv,Pimento,0,EN
+sv,Pimento,0,EN
+sv,Rum,955,EN
+sv,Rum,264,EN
+sv,Rum,149,EN
+sv,Salt,385,EN
+sv,Salt,14,EN
+sv,Sugar,393,EN
+sv,Sugar,12,EN
+sv,Sugar,20,EN
+sv,,,EN
+sv,Beeswax,0,EN
+sv,Cheese,0,EN
+sv,Coffee,0,EN
+sv,Cotton,0,EN
+sv,Cotton,4,EN
+sv,Molasses,77,EN
+sv,Molasses,8,EN
+sv,Molasses,265,EN
+sv,Negroes,2627,EN
+sv,Pork,3,EN
+sv,Rice,0,EN
+sv,Rum,199,EN
+sv,Rum,659,EN
+sv,Rum,69,EN
+sv,Rum,31,EN
+sv,Salt,0,EN
+sv,Salt,294,EN
+sv,Salt,16,EN
+sv,Sugar,298,EN
+sv,Sugar,40,EN
+sv,Sugar,8,EN
+sv,Wine,6,EN
+sv,Wine,123,EN
+1737,Cheese,0,EN
+1737,Chocolate,0,EN
+1737,Coffee,0,EN
+1737,Loaf sugar,0,EN
+1737,Molasses,184,EN
+1737,Molasses,3,EN
+1737,Negroes,3386,EN
+1737,Pimento,0,EN
+1737,Rum,85,EN
+1737,Rum,425,EN
+1737,Rum,41,EN
+1737,Salt,9,EN
+1737,Salt,700,EN
+1737,Sugar,66,EN
+1737,Sugar,553,EN
+1737,Wine,1029,EN
+1737,Wine,156,EN
+1737,Wine,3,EN
+1737,Wine,26,EN
+1738,Cash,162,EN
+1738,Cheese,0,EN
+1738,Linen,0,EN
+1738,Linen,0,EN
+1738,Negroes,5008,EN
+1738,Rum,60,EN
+1738,Rum,30,EN
+1738,Rum,21,EN
+1738,Rum,547,EN
+1738,Rum,17,EN
+1738,Salt,474,EN
+1738,Salt,0,EN
+1738,Sugar,66,EN
+1738,Sugar,101,EN
+1739,Cheese,0,EN
+1739,Coffee,0,EN
+1739,Iron,1,EN
+1739,Molasses,11,EN
+1739,Molasses,194,EN
+1739,Negroes,13799,EN
+1739,Pepper,0,EN
+1739,Pistoles,56,EN
+1739,Rum,108,EN
+1739,Rum,0,EN
+1739,Rum,7,EN
+1739,Rum,824,EN
+1739,Salt,51,EN
+1739,Salt,12,EN
+1739,Sugar,0,EN
+1739,Sugar,27,EN
+1739,Sugar,24,EN
+1739,Sugar,118,EN
+1739,Sugar,10,EN
+1739,Tobacco,1341,EN
+1739,Wine,1552,EN
+1739,Wine,57,EN
+1739,Wine,13,EN
+1740,Cheese,0,EN
+1740,Cheese,0,EN
+1740,Cotton,28,EN
+1740,Flour,3,EN
+1740,Ginger,0,EN
+1740,Molasses,393,EN
+1740,Molasses,15,EN
+1740,Molasses,3,EN
+1740,Molasses,30,EN
+1740,Negroes,1839,EN
+1740,Pimento,0,EN
+1740,Plank,5,EN
+1740,Rum,106,EN
+1740,Rum,1,EN
+1740,Rum,714,EN
+1740,Rum,27,EN
+1740,Rum,225,EN
+1740,Rum,722,EN
+1740,Salt,225,EN
+1740,Salt,5,EN
+1740,Sugar,0,EN
+1740,Sugar,34,EN
+1740,Sugar,67,EN
+1740,Sugar,646,EN
+1740,Sugar,13,EN
+1740,Wine,0,EN
+1741,Antigua currency,65,EN
+1741,Cash,365,EN
+1741,Cheese,0,EN
+1741,Cheese,0,EN
+1741,Cheese,0,EN
+1741,Cheese,0,EN
+1741,Chocolate,0,EN
+1741,Cotton,81,EN
+1741,Ginger,0,EN
+1741,Ginger,0,EN
+1741,Indigo,655,EN
+1741,Loaf sugar,6,EN
+1741,Loaf sugar,28,EN
+1741,Loaf sugar,300,EN
+1741,Loaf sugar,14,EN
+1741,Loaf sugar,6,EN
+1741,Molasses,23,EN
+1741,Molasses,113,EN
+1741,Molasses,31,EN
+1741,Negroes,10815,EN
+1741,Pepper,0,EN
+1741,Pimento,0,EN
+1741,Plank,54,EN
+1741,Refined sugar,0,EN
+1741,Refined sugar,28,EN
+1741,Refined sugar,28,EN
+1741,Rum,12,EN
+1741,Rum,372,EN
+1741,Rum,1579,EN
+1741,Salt,58,EN
+1741,Salt,545,EN
+1741,Salt,9,EN
+1741,Sugar,250,EN
+1741,Sugar,64,EN
+1741,Sugar,55,EN
+1741,Sugar,45,EN
+1741,Tea,0,EN
+1741,White sugar,7,EN
+1741,White sugar,28,EN
+1741,Wine,4,EN
+1741,Wine,15,EN
+1742,Cash,25,EN
+1742,Cheese,0,EN
+1742,Clayed sugar,0,EN
+1742,Cotton,0,EN
+1742,Ginger,0,EN
+1742,Iron,12,EN
+1742,Molasses,26,EN
+1742,Molasses,4,EN
+1742,Molasses,108,EN
+1742,Negroes,107,EN
+1742,Potatoes,0,EN
+1742,Refined sugar,0,EN
+1742,Rum,2,EN
+1742,Rum,3057,EN
+1742,Rum,425,EN
+1742,Rum,235,EN
+1742,Rum,773,EN
+1742,Salt,41,EN
+1742,Salt,236,EN
+1742,Sugar,567,EN
+1742,Sugar,11,EN
+1743,Cash,142,EN
+1743,Cheese,0,EN
+1743,Cotton,4,EN
+1743,Ginger,0,EN
+1743,Indigo,11,EN
+1743,Molasses,7,EN
+1743,Molasses,89,EN
+1743,Molasses,3,EN
+1743,Negroes,6705,EN
+1743,Rum,125,EN
+1743,Rum,924,EN
+1743,Rum,11,EN
+1743,Rum,138,EN
+1743,Salt,5,EN
+1743,Salt,175,EN
+1743,Sugar,58,EN
+1743,Sugar,195,EN
+1743,Wine,171,EN
+1743,Wine,86,EN
+1744,Cheese,0,EN
+1744,Molasses,22,EN
+1744,Negroes,5122,EN
+1744,Rum,111,EN
+1744,Salt,6,EN
+1744,Salt,125,EN
+1744,Sugar,27,EN
+1745,Cash,274,EN
+1745,Cheese,0,EN
+1745,Cheese,0,EN
+1745,Loaf sugar,13,EN
+1745,Loaf sugar,9,EN
+1745,Loaf sugar,4,EN
+1745,Molasses,17,EN
+1745,Molasses,35,EN
+1745,Rum,82,EN
+1745,Rum,778,EN
+1745,Salt,11,EN
+1745,Salt,140,EN
+1745,Sugar,12,EN
+1745,Sugar,314,EN
+1745,Sugar,77,EN
+1746,Cash,28,EN
+1746,Cheese,0,EN
+1746,Negroes,17662,EN
+1746,Pistoles,10,EN
+1746,Rum,207,EN
+1746,Rum,18,EN
+1746,Rum,32,EN
+1746,Rum,94,EN
+1746,Salt,710,EN
+1746,Staves,11,EN
+1749,Cheese,0,EN
+1749,Molasses,12,EN
+1749,Negroes,31459,EN
+1749,Rum,139,EN
+1749,Rum,47,EN
+1749,Salt,14,EN
+1749,Salt,630,EN
+1749,Sugar,0,EN
+1749,Virginia currency,0,EN
+1749,Virginia currency,1,EN
+1749,Virginia currency,242,EN
+1750,Cheese,0,EN
+1750,Cotton,7,EN
+1750,Molasses,5,EN
+1750,Negroes,19391,EN
+1750,Rum,433,EN
+1750,Rum,2817,EN
+1750,Rum,47,EN
+1750,Salt,2,EN
+1750,Salt,93,EN
+1750,Sugar,1357,EN
+1750,Virginia currency,11,EN
+1750,Wine,557,EN
+1752,Cheese,0,EN
+1752,Chocolate,0,EN
+1752,Chocolate,0,EN
+1752,Ginger,0,EN
+1752,Ginger,0,EN
+1752,Loaf sugar,0,EN
+1752,Molasses,446,EN
+1752,Negroes,29181,EN
+1752,Pistereens,5,EN
+1752,Rum,35,EN
+1752,Rum,36,EN
+1752,Rum,4742,EN
+1752,Salt,0,EN
+1752,Salt,105,EN
+1752,Salt,67,EN
+1752,Sugar,0,EN
+1752,Sugar,15,EN
+1752,Sugar,91,EN
+1752,Sugar,1299,EN
+1752,Sugar,228,EN
+1752,Tobacco,6,EN
+1752,Wine,523,EN
+1752,Wine,127,EN
+1754,Bar iron,14,EN
+1754,Cheese,0,EN
+1754,Cheese,0,EN
+1754,Chocolate,0,EN
+1754,Coffee,0,EN
+1754,Coffee,0,EN
+1754,Cotton,6,EN
+1754,Flour,13,EN
+1754,Ginger,0,EN
+1754,Loaf sugar,8,EN
+1754,Molasses,29,EN
+1754,Molasses,7,EN
+1754,Molasses,132,EN
+1754,Negroes,8076,EN
+1754,Rum,3143,EN
+1754,Rum,199,EN
+1754,Rum,61,EN
+1754,Rum,12,EN
+1754,Salt,952,EN
+1754,Salt,62,EN
+1754,Sugar,1518,EN
+1754,Sugar,423,EN
+1754,Sugar,71,EN
+1754,Virginia currency,250,EN
+1754,Wine,9,EN
+1754,Wine,379,EN
+1754,Wine,17,EN
+1756,Cheese,0,EN
+1756,Cheese,0,EN
+1756,Loaf sugar,23,EN
+1756,Loaf sugar,13,EN
+1756,Molasses,1,EN
+1756,Rum,58,EN
+1756,Rum,37,EN
+1756,Rum,2807,EN
+1756,Salt,82,EN
+1756,Salt,983,EN
+1756,Sugar,152,EN
+1756,Sugar,1507,EN
+1756,Sugar,322,EN
+1756,Wine,24,EN
+1756,Wine,380,EN
+1756,Wine,14,EN
+1756,Wine,114,EN
+1758,Bar iron,29,EN
+1758,Bread,12,EN
+1758,Cheese,0,EN
+1758,Chocolate,0,EN
+1758,Chocolate,0,EN
+1758,Coffee,0,EN
+1758,Coffee,0,EN
+1758,Flour,9,EN
+1758,Ginger,0,EN
+1758,Iron,2,EN
+1758,Loaf sugar,65,EN
+1758,Loaf sugar,10,EN
+1758,Molasses,566,EN
+1758,Planks,17,EN
+1758,Refined sugar,43,EN
+1758,Refined sugar,8,EN
+1758,Rum,14,EN
+1758,Rum,3549,EN
+1758,Rum,20,EN
+1758,Salt,833,EN
+1758,Salt,132,EN
+1758,Sterling,0,EN
+1758,Sterling cash,111,EN
+1758,Sugar,0,EN
+1758,Sugar,247,EN
+1758,Sugar,7,EN
+1758,Sugar,88,EN
+1758,Sugar,509,EN
+1758,Virginia currency,0,EN
+1758,Virginia currency,1,EN
+1758,Virginia currency,182,EN
+1758,Wine,26,EN
+1758,Wine,53,EN
+1758,Wine,26,EN
+1760,Chocolate,0,EN
+1760,Ginger,0,EN
+1760,Loaf sugar,38,EN
+1760,Loaf sugar,52,EN
+1760,Molasses,83,EN
+1760,Molasses,551,EN
+1760,Negroes,30162,EN
+1760,Pig iron,137,EN
+1760,Rum,18,EN
+1760,Rum,31,EN
+1760,Rum,1363,EN
+1760,Salt,99,EN
+1760,Sterling cash,40,EN
+1760,Sugar,344,EN
+1760,Sugar,57,EN
+1760,Virginia currency,42,EN
+1760,Wine,0,EN
+1760,Wine,206,EN
+1760,Wine,3362,EN
+1760,Wine,96,EN
+1761,Cash,70,EN
+1761,Cheese,0,EN
+1761,Chocolate,0,EN
+1761,Chocolate,0,EN
+1761,Coffee,0,EN
+1761,Coffee,0,EN
+1761,Loaf sugar,25,EN
+1761,Loaf sugar,11,EN
+1761,Loaf sugar,641,EN
+1761,Loaf sugar,199,EN
+1761,Molasses,4,EN
+1761,Molasses,276,EN
+1761,Molasses,61,EN
+1761,Negroes,7656,EN
+1761,Rum,7,EN
+1761,Rum,3201,EN
+1761,Rum,73,EN
+1761,Salt,31,EN
+1761,Salt,600,EN
+1761,Sterling cash,50,EN
+1761,Strained sugar,94,EN
+1761,Sugar,42,EN
+1761,Sugar,683,EN
+1761,Sugar,1400,EN
+1761,Tea,0,EN
+1761,Tea,3,EN
+1761,Tea,0,EN
+1761,Virginia currency,130,EN
+1761,Wine,170,EN
+1761,Wine,1131,EN
+1761,Wine,42,EN
+1762,Cash,1075,EN
+1762,Cheese,0,EN
+1762,Chocolate,0,EN
+1762,Chocolate,0,EN
+1762,Coffee,0,EN
+1762,Coffee,0,EN
+1762,Coffee,0,EN
+1762,Dollars,180,EN
+1762,Ginger,0,EN
+1762,Ginger,0,EN
+1762,Loaf sugar,3,EN
+1762,Loaf sugar,212,EN
+1762,Molasses,8,EN
+1762,Molasses,400,EN
+1762,Molasses,62,EN
+1762,Negroes,36429,EN
+1762,Pimento,0,EN
+1762,Pimento,0,EN
+1762,Plank,0,EN
+1762,Refined sugar,320,EN
+1762,Refined sugar,250,EN
+1762,Refined sugar,21,EN
+1762,Refined sugar,835,EN
+1762,Rum,4366,EN
+1762,Rum,27,EN
+1762,Rum,246,EN
+1762,Salt,382,EN
+1762,Salt,82,EN
+1762,Strained sugar,87,EN
+1762,Sugar,1127,EN
+1762,Sugar,299,EN
+1762,Sugar,29,EN
+1762,Tobacco,815,EN
+1762,Virginia currency,77,EN
+1762,Wine,0,EN
+1762,Wine,29,EN
+1762,Wine,43,EN
+1763,Cash,289,EN
+1763,Chocolate,0,EN
+1763,Chocolate,0,EN
+1763,Coffee,0,EN
+1763,Coffee,0,EN
+1763,Coffee,0,EN
+1763,Cotton,0,EN
+1763,Dollars,373,EN
+1763,Iron,5,EN
+1763,Loaf sugar,27,EN
+1763,Loaf sugar,102,EN
+1763,Loaf sugar,30,EN
+1763,Loaf sugar,90,EN
+1763,Loaf sugar,71,EN
+1763,Molasses,25,EN
+1763,Molasses,825,EN
+1763,Molasses,33,EN
+1763,Negroes,34670,EN
+1763,Potatoes,0,EN
+1763,Refined sugar,23,EN
+1763,Refined sugar,240,EN
+1763,Refined sugar,92,EN
+1763,Refined sugar,33,EN
+1763,Rum,9,EN
+1763,Rum,4301,EN
+1763,Rum,231,EN
+1763,Salt,156,EN
+1763,Salt,1020,EN
+1763,Sterling cash,25,EN
+1763,Sugar,868,EN
+1763,Sugar,128,EN
+1763,Tea,0,EN
+1763,Wine,14,EN
+1763,Wine,400,EN
+1763,Wine,100,EN
+1763,Wine,21,EN
+1764,Beef,69,EN
+1764,Bread,26,EN
+1764,Cash,140,EN
+1764,Cheese,0,EN
+1764,Chocolate,0,EN
+1764,Chocolate,0,EN
+1764,Coffee,0,EN
+1764,Coffee,0,EN
+1764,Coffee,0,EN
+1764,Dollars,92,EN
+1764,Flour,42,EN
+1764,Ginger,0,EN
+1764,Loaf sugar,0,EN
+1764,Loaf sugar,180,EN
+1764,Loaf sugar,286,EN
+1764,Loaf sugar,318,EN
+1764,Loaf sugar,114,EN
+1764,Molasses,6,EN
+1764,Molasses,47,EN
+1764,Molasses,4,EN
+1764,Molasses,619,EN
+1764,Negroes,19489,EN
+1764,Potatoes,0,EN
+1764,Potatoes,0,EN
+1764,Potatoes,0,EN
+1764,Rum,3,EN
+1764,Rum,817,EN
+1764,Rum,3,EN
+1764,Rum,134,EN
+1764,Rum,23,EN
+1764,Salt,88,EN
+1764,Salt,767,EN
+1764,Sugar,728,EN
+1764,Sugar,149,EN
+1764,Sugar,83,EN
+1764,Sugar,63,EN
+1764,Sugar,286,EN
+1764,Wine,372,EN
+1764,Wine,2456,EN
+1764,Wine,233,EN
+1765,Bread,27,EN
+1765,Cash,44,EN
+1765,Cheese,0,EN
+1765,Cheese,0,EN
+1765,Cheese,0,EN
+1765,Cheese,0,EN
+1765,Chocolate,0,EN
+1765,Chocolate,0,EN
+1765,Coffee,0,EN
+1765,Coffee,0,EN
+1765,Coffee,0,EN
+1765,Dollars,303,EN
+1765,Ginger,0,EN
+1765,Iron,186,EN
+1765,Iron,0,EN
+1765,Loaf sugar,78,EN
+1765,Loaf sugar,3,EN
+1765,Loaf sugar,54,EN
+1765,Loaf sugar,265,EN
+1765,Loaf sugar,47,EN
+1765,Molasses,136,EN
+1765,Molasses,759,EN
+1765,Molasses,31,EN
+1765,Pimento,0,EN
+1765,Potatoes,0,EN
+1765,Potatoes,0,EN
+1765,Rum,4,EN
+1765,Rum,5636,EN
+1765,Rum,16,EN
+1765,Rum,8,EN
+1765,Rum,244,EN
+1765,Salt,400,EN
+1765,Salt,0,EN
+1765,Salt,64,EN
+1765,Spirits,1,EN
+1765,Spirits,0,EN
+1765,Sugar,309,EN
+1765,Sugar,323,EN
+1765,Sugar,981,EN
+1765,Wine,21,EN
+1766,Bread,6,EN
+1766,Cash,285,EN
+1766,Cheese,0,EN
+1766,Chocolate,0,EN
+1766,Molasses,89,EN
+1766,Molasses,7,EN
+1766,Molasses,7,EN
+1766,Molasses,36,EN
+1766,Negroes,10387,EN
+1766,Rum,68,EN
+1766,Rum,6,EN
+1766,Rum,5021,EN
+1766,Rum,40,EN
+1766,Salt,0,EN
+1766,Salt,782,EN
+1766,Salt,0,EN
+1766,Sugar,1555,EN
+1766,Sugar,133,EN
+1766,Sugar,254,EN
+1766,Wine,75,EN
+1766,Wine,990,EN
+1766,Wine,158,EN
+1768,Bread,7,EN
+1768,Cheese,0,EN
+1768,Cheese,0,EN
+1768,Cheese,0,EN
+1768,Chocolate,0,EN
+1768,Chocolate,0,EN
+1768,Coffee,0,EN
+1768,Cotton,12,EN
+1768,Flax,0,EN
+1768,Ginger,0,EN
+1768,Iron,210,EN
+1768,Loaf sugar,37,EN
+1768,Loaf sugar,503,EN
+1768,Loaf sugar,17,EN
+1768,Loaf sugar,67,EN
+1768,Molasses,703,EN
+1768,Molasses,7,EN
+1768,Negroes,7947,EN
+1768,Plank,27,EN
+1768,Planks,2,EN
+1768,Potatoes,0,EN
+1768,Rum,10,EN
+1768,Rum,36,EN
+1768,Rum,6788,EN
+1768,Rum,329,EN
+1768,Salt,1257,EN
+1768,Salt,0,EN
+1768,Salt,34,EN
+1768,Sugar,0,EN
+1768,Sugar,1805,EN
+1768,Sugar,721,EN
+1768,Sugar,55,EN
+1768,Tea,0,EN
+1768,Tea,0,EN
+1768,Tea,0,EN
+1768,Tea,0,EN
+1768,Tea,0,EN
+1768,Tea,0,EN
+1768,Tea,1,EN
+1768,Virginia currency,0,EN
+1768,Virginia currency,1,EN
+1768,Virginia currency,62,EN
+1768,Wine,315,EN
+1768,Wine,7,EN
+1768,Wine,379,EN
+1768,Wine,1432,EN
+1769,Bread,44,EN
+1769,Cheese,0,EN
+1769,Chocolate,0,EN
+1769,Chocolate,0,EN
+1769,Coffee,0,EN
+1769,Coffee,0,EN
+1769,Coffee,0,EN
+1769,Cotton,0,EN
+1769,Dollars,552,EN
+1769,Flour,349,EN
+1769,Iron,231,EN
+1769,Loaf sugar,21,EN
+1769,Loaf sugar,42,EN
+1769,Loaf sugar,15,EN
+1769,Loaf sugar,8,EN
+1769,Molasses,901,EN
+1769,Molasses,25,EN
+1769,Molasses,55,EN
+1769,Negroes,12553,EN
+1769,Pepper,0,EN
+1769,Pimento,0,EN
+1769,Plank,8,EN
+1769,Planks,25,EN
+1769,Pork,369,EN
+1769,Potatoes,0,EN
+1769,Potatoes,0,EN
+1769,Rum,156,EN
+1769,Rum,7323,EN
+1769,Rum,521,EN
+1769,Salt,725,EN
+1769,Salt,71,EN
+1769,Silver,0,EN
+1769,Spirits,11,EN
+1769,Staves,16,EN
+1769,Sugar,0,EN
+1769,Sugar,715,EN
+1769,Sugar,83,EN
+1769,Sugar,0,EN
+1769,Sugar,1587,EN
+1769,Tar,0,EN
+1769,Tea,0,EN
+1769,Tea,2,EN
+1769,Virginia currency,0,EN
+1769,Virginia currency,0,EN
+1769,Virginia currency,348,EN
+1769,Wine,15,EN
+1769,Wine,731,EN
+1769,Wine,46,EN
+1771,Bread,108,EN
+1771,Cheese,0,EN
+1771,Cheese,0,EN
+1771,Chocolate,0,EN
+1771,Chocolate,0,EN
+1771,Coffee,0,EN
+1771,Coffee,0,EN
+1771,Coffee,0,EN
+1771,Coffee,0,EN
+1771,Coffee,0,EN
+1771,Dollars,390,EN
+1771,Ginger,0,EN
+1771,Guineas,105,EN
+1771,Heading,0,EN
+1771,Hoops,0,EN
+1771,Iron,444,EN
+1771,Iron,3,EN
+1771,Loaf sugar,132,EN
+1771,Loaf sugar,69,EN
+1771,Loaf sugar,37,EN
+1771,Loaf sugar,44,EN
+1771,Loaf sugar,40,EN
+1771,Molasses,847,EN
+1771,Molasses,45585,EN
+1771,Molasses,6,EN
+1771,Molasses,59,EN
+1771,Negroes,1958,EN
+1771,Pimento,0,EN
+1771,Pimento,0,EN
+1771,Plank,46,EN
+1771,Planks,9,EN
+1771,Potatoes,0,EN
+1771,Potatoes,0,EN
+1771,Potatoes,0,EN
+1771,Rum,485,EN
+1771,Rum,6974,EN
+1771,Rum,982,EN
+1771,Rum,3,EN
+1771,Salt,46,EN
+1771,Salt,184,EN
+1771,Shingles,0,EN
+1771,Spirits,11,EN
+1771,Spirits,15,EN
+1771,Staves,37,EN
+1771,Sugar,1251,EN
+1771,Sugar,1478,EN
+1771,Sugar,13,EN
+1771,Tea,4,EN
+1771,Virginia currency,418,EN
+1771,Virginia currency,0,EN
+1771,Virginia currency,0,EN
+1771,Wine,189,EN
+1771,Wine,0,EN
+1771,Wine,1592,EN
+1771,Wine,68,EN
+1771,Wine,271,EN

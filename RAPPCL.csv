@@ -1,0 +1,859 @@
+year,good,value,movement_type
+sv,Corn,84,CL
+sv,Cotton,0,CL
+sv,Deer Skins,0,CL
+sv,Furs,0,CL
+sv,Hoops,0,CL
+sv,Iron,0,CL
+sv,Logs (walnut),0,CL
+sv,Peas,2,CL
+sv,Plank,2,CL
+sv,Planks,1,CL
+sv,Staves (barrel),57,CL
+sv,Staves (barrels),22,CL
+sv,Staves (hhd),42,CL
+sv,Staves (hhds),13,CL
+sv,Staves (pipe),62,CL
+sv,Sugar,248,CL
+sv,Tobacco,37358,CL
+sv,Tobacco,80,CL
+sv,Tobacco,12,CL
+sv,Wheat,125,CL
+sv,Wine,59,CL
+sv,,,CL
+sv,Corn,203,CL
+sv,Furs,0,CL
+sv,Furs,0,CL
+sv,Heading,4,CL
+sv,Iron,0,CL
+sv,Logs (walnut),0,CL
+sv,Pig iron,0,CL
+sv,Pitch,22,CL
+sv,Plank,8,CL
+sv,Planks,0,CL
+sv,Staves (barrels),8,CL
+sv,Staves (hhds),180,CL
+sv,Staves (pipes),0,CL
+sv,Tobacco,259,CL
+sv,Tobacco,37421,CL
+sv,,,CL
+sv,Beans,1,CL
+sv,Corn,141,CL
+sv,Deer Skins,0,CL
+sv,Pig iron,0,CL
+sv,Plank,4,CL
+sv,Pork,31,CL
+sv,Rum,3,CL
+sv,Staves (barrels),51,CL
+sv,Staves (hhds),41,CL
+sv,Staves (pipes),17,CL
+sv,Sugar,144,CL
+sv,Tobacco,4,CL
+sv,Tobacco,92,CL
+sv,Tobacco,22967,CL
+sv,Wheat,50,CL
+sv,,,CL
+sv,Corn,427,CL
+sv,Deer Skins,0,CL
+sv,Heading,3,CL
+sv,Hoops,0,CL
+sv,Iron,0,CL
+sv,Logs (walnut),0,CL
+sv,Molasses,4,CL
+sv,Peas,8,CL
+sv,Plank,4,CL
+sv,Planks,0,CL
+sv,Pork,113,CL
+sv,Rum,15,CL
+sv,Staves,1,CL
+sv,Staves (barrels),62,CL
+sv,Staves (hhds),56,CL
+sv,Staves (pipes),25,CL
+sv,Tobacco,16,CL
+sv,Tobacco,123,CL
+sv,Tobacco,29756,CL
+sv,Turpentine,9,CL
+sv,Wax,0,CL
+sv,Wheat,54,CL
+sv,Wine,53,CL
+sv,,,CL
+sv,Beans,10,CL
+sv,Corn,683,CL
+sv,Deer Skins,0,CL
+sv,Flour,1,CL
+sv,Furs,0,CL
+sv,Heading,1,CL
+sv,Iron,0,CL
+sv,Peas,1,CL
+sv,Peas,57,CL
+sv,Pitch,56,CL
+sv,Plank,5,CL
+sv,Pork,194,CL
+sv,Staves (barrels),39,CL
+sv,Staves (hhds),90,CL
+sv,Staves (pipes),14,CL
+sv,Tobacco,11566,CL
+sv,Wheat,62,CL
+sv,,,CL
+sv,Beans,9,CL
+sv,Corn,774,CL
+sv,Deer Skins,0,CL
+sv,Hoops,0,CL
+sv,Peas,27,CL
+sv,Peas,1,CL
+sv,Pig iron,0,CL
+sv,Plank,4,CL
+sv,Planks,1,CL
+sv,Pork,27,CL
+sv,Pork,49,CL
+sv,Rum,48,CL
+sv,Staves,530,CL
+sv,Sugar,1,CL
+sv,Tobacco,21350,CL
+sv,Wheat,38,CL
+sv,,,CL
+sv,Corn,902,CL
+sv,Deer Skins,0,CL
+sv,Furs,0,CL
+sv,Hoops,0,CL
+sv,Peas,15,CL
+sv,Pig iron,0,CL
+sv,Plank,0,CL
+sv,Plank,4,CL
+sv,Pork,12,CL
+sv,Rum,16,CL
+sv,Rum,28,CL
+sv,Salt,196,CL
+sv,Staves,224,CL
+sv,Tobacco,54,CL
+sv,Tobacco,20847,CL
+sv,Wheat,9,CL
+sv,,,CL
+sv,Beans,1,CL
+sv,Corn,232,CL
+sv,Deer Skin,0,CL
+sv,Deer Skins,0,CL
+sv,Deer Skins,0,CL
+sv,Furs,0,CL
+sv,Hoops,0,CL
+sv,Linen,0,CL
+sv,Linen,0,CL
+sv,Pig iron,0,CL
+sv,Plank,4,CL
+sv,Plank,0,CL
+sv,Planks,0,CL
+sv,Rum,5,CL
+sv,Rum,2,CL
+sv,Staves,351,CL
+sv,Sugar,69,CL
+sv,Tobacco,112,CL
+sv,Tobacco,42164,CL
+sv,Wheat,3,CL
+sv,Wine,12,CL
+sv,,,CL
+1738,Corn,400,CL
+1738,Deer Skin,0,CL
+1738,Deer Skins,0,CL
+1738,Peas,12,CL
+1738,Pig iron,1957,CL
+1738,Plank,2,CL
+1738,Staves,273,CL
+1738,Tobacco,33345,CL
+1738,Tobacco,2,CL
+1738,Wheat,320,CL
+1738,,,CL
+1739,Beans,4,CL
+1739,Corn,229,CL
+1739,Deer Skin,0,CL
+1739,Deer Skin,0,CL
+1739,Deer Skins,0,CL
+1739,Deer Skins,0,CL
+1739,Furs and skins,0,CL
+1739,Hoops,0,CL
+1739,Peas,0,CL
+1739,Pig iron,2175,CL
+1739,Plank,4,CL
+1739,Planks,1,CL
+1739,Pork,6,CL
+1739,Staves,366,CL
+1739,Tobacco,69,CL
+1739,Tobacco,44950,CL
+1739,Wheat,25,CL
+1739,,,CL
+1740,Beans,2,CL
+1740,Bread,2,CL
+1740,Corn,604,CL
+1740,Deer Skin,0,CL
+1740,Deer Skins,0,CL
+1740,Heading,0,CL
+1740,Hoops,0,CL
+1740,Logs (walnut),0,CL
+1740,Peas,1,CL
+1740,Pig iron,1491,CL
+1740,Plank,2,CL
+1740,Pork,114,CL
+1740,Shingles,0,CL
+1740,Staves,383,CL
+1740,Tobacco,43,CL
+1740,Tobacco,38641,CL
+1740,Wax,0,CL
+1740,Wheat,67,CL
+1740,Wine,6,CL
+1740,,,CL
+1741,Beans,14,CL
+1741,Corn,1155,CL
+1741,Deer Skin,0,CL
+1741,Deer Skins,0,CL
+1741,Deer Skins,0,CL
+1741,Heading,2,CL
+1741,Hoops,0,CL
+1741,Peas,20,CL
+1741,Pig iron,1680,CL
+1741,Plank,7,CL
+1741,Pork,38,CL
+1741,Pork,54,CL
+1741,Pork,14,CL
+1741,Rum,3,CL
+1741,Skins,0,CL
+1741,Staves,503,CL
+1741,Tobacco,29,CL
+1741,Tobacco,49904,CL
+1741,Wheat,95,CL
+1741,,,CL
+1742,Beans,10,CL
+1742,Corn,85,CL
+1742,Deer Skins,0,CL
+1742,Deer Skins,0,CL
+1742,Heading,1,CL
+1742,Hoops,0,CL
+1742,Iron,2796,CL
+1742,Logs,0,CL
+1742,Logs,0,CL
+1742,Logs (walnut),0,CL
+1742,Logs (walnut),0,CL
+1742,Peas,4,CL
+1742,Pig iron,276,CL
+1742,Plank,0,CL
+1742,Plank,5,CL
+1742,Planks,9,CL
+1742,Pork,2,CL
+1742,Pork,17,CL
+1742,Rum,12,CL
+1742,Rum,4,CL
+1742,Salt,2,CL
+1742,Spirits,3,CL
+1742,Staves,535,CL
+1742,Sugar,4,CL
+1742,Tar,123,CL
+1742,Tobacco,34,CL
+1742,Tobacco,73461,CL
+1742,Wax,0,CL
+1742,Wax,0,CL
+1742,Wheat,43,CL
+1742,Wine,16,CL
+1742,,,CL
+1743,Beans,1,CL
+1743,Corn,537,CL
+1743,Deer Skin,0,CL
+1743,Deer Skin,0,CL
+1743,Deer Skins,0,CL
+1743,Deer Skins,0,CL
+1743,Deer Skins,0,CL
+1743,Flour,1,CL
+1743,Furs,0,CL
+1743,Hoops,0,CL
+1743,Iron,2022,CL
+1743,Peas,7,CL
+1743,Pig iron,177,CL
+1743,Plank,0,CL
+1743,Plank,9,CL
+1743,Planks,17,CL
+1743,Rum,25,CL
+1743,Rye,1,CL
+1743,Skins,0,CL
+1743,Skins,0,CL
+1743,Staves,432,CL
+1743,Tobacco,62103,CL
+1743,Tobacco,10,CL
+1743,Turpentine,7,CL
+1743,Wheat,116,CL
+1743,,,CL
+1744,Beans,1,CL
+1744,Corn,287,CL
+1744,Deer Skin,0,CL
+1744,Deer Skins,0,CL
+1744,Deer Skins,0,CL
+1744,Hoops,0,CL
+1744,Iron,2382,CL
+1744,Logs (walnut),0,CL
+1744,Peas,3,CL
+1744,Plank,7,CL
+1744,Rum,66,CL
+1744,Spirits,29,CL
+1744,Staves,392,CL
+1744,Tobacco,42543,CL
+1744,Tobacco,7,CL
+1744,Wax,0,CL
+1744,Wheat,38,CL
+1744,,,CL
+1745,Beans,0,CL
+1745,Corn,53,CL
+1745,Hoops,0,CL
+1745,Indigo,0,CL
+1745,Iron,2545,CL
+1745,Logs (walnut),0,CL
+1745,Peas,2,CL
+1745,Plank,1,CL
+1745,Plank,2,CL
+1745,Planks,1,CL
+1745,Pork,1,CL
+1745,Rum,17,CL
+1745,Skins,0,CL
+1745,Skins,0,CL
+1745,Skins,0,CL
+1745,Skins,0,CL
+1745,Skins,0,CL
+1745,Staves,428,CL
+1745,Tobacco,9,CL
+1745,Tobacco,50845,CL
+1745,Walnut logs,0,CL
+1745,Wax,0,CL
+1745,Wheat,7,CL
+1745,,,CL
+1746,Beans,10,CL
+1746,Corn,497,CL
+1746,Deer Skin,0,CL
+1746,Deer Skins,0,CL
+1746,Deer Skins,0,CL
+1746,Deer Skins,0,CL
+1746,Hoops,0,CL
+1746,Peas,0,CL
+1746,Pig iron,1146,CL
+1746,Plank,6,CL
+1746,Planks,54,CL
+1746,Pork,6,CL
+1746,Rum,77,CL
+1746,Shingles,0,CL
+1746,Staves,265,CL
+1746,Tobacco,6,CL
+1746,Tobacco,34389,CL
+1746,Wheat,57,CL
+1746,,,CL
+1749,Beans,12,CL
+1749,Corn,371,CL
+1749,Hoops,0,CL
+1749,Linen,0,CL
+1749,Logs (walnut),0,CL
+1749,Logs (walnut),0,CL
+1749,Peas,2,CL
+1749,Pig iron,60,CL
+1749,Plank,26,CL
+1749,Pork,702,CL
+1749,Rum,8,CL
+1749,Skins,0,CL
+1749,Skins,0,CL
+1749,Staves,825,CL
+1749,Tobacco,63573,CL
+1749,Wheat,2,CL
+1749,,,CL
+1750,Beans,5,CL
+1750,Corn,1122,CL
+1750,Cotton,7,CL
+1750,Cotton,28,CL
+1750,Deer Skins,0,CL
+1750,Deer Skins,0,CL
+1750,Furs,0,CL
+1750,Handspikes,0,CL
+1750,Heading,34,CL
+1750,Hoops,0,CL
+1750,Iron,660,CL
+1750,Linen,0,CL
+1750,Logs (walnut),0,CL
+1750,Logs (walnut),0,CL
+1750,Pig iron,727,CL
+1750,Plank,1,CL
+1750,Plank,76,CL
+1750,Pork,23,CL
+1750,Rum,21,CL
+1750,Rum,3,CL
+1750,Shingles,0,CL
+1750,Skins,0,CL
+1750,Skins,0,CL
+1750,Staves,2870,CL
+1750,Tobacco,93634,CL
+1750,Wax,0,CL
+1750,Wheat,0,CL
+1750,,,CL
+1751,Biscuits,15,CL
+1751,Corn,688,CL
+1751,Deer Skins,0,CL
+1751,Deer Skins,0,CL
+1751,Deer Skins,0,CL
+1751,Deer Skins,0,CL
+1751,Heading,3,CL
+1751,Hoops,0,CL
+1751,Linen,0,CL
+1751,Logs (walnut),0,CL
+1751,Logs (walnut),0,CL
+1751,Oats,6,CL
+1751,Pig iron,1193,CL
+1751,Plank,25,CL
+1751,Planks,11,CL
+1751,Pork,37,CL
+1751,Rum,15,CL
+1751,Rum,4,CL
+1751,Rum,22,CL
+1751,Shingles,0,CL
+1751,Staves,912,CL
+1751,Tobacco,79261,CL
+1751,Tobacco,1,CL
+1751,Wax,0,CL
+1751,Wheat,214,CL
+1751,Wine,18,CL
+1751,,,CL
+1752,Bread,23,CL
+1752,Bread,0,CL
+1752,Corn,1403,CL
+1752,Deer Skins,0,CL
+1752,Deer Skins,0,CL
+1752,Flour,81,CL
+1752,Hoops,0,CL
+1752,Logs (walnut),0,CL
+1752,Logs (walnut),0,CL
+1752,Peas,1,CL
+1752,Peas,4,CL
+1752,Pig iron,1757,CL
+1752,Plank,22,CL
+1752,Planks,52,CL
+1752,Pork,130,CL
+1752,Rum,6,CL
+1752,Rum,91,CL
+1752,Shingles,0,CL
+1752,Skins,0,CL
+1752,Staves,936,CL
+1752,Tobacco,95601,CL
+1752,Tobacco,2,CL
+1752,Wheat,11,CL
+1752,Wine,9,CL
+1752,Wine,54,CL
+1752,,,CL
+1754,Beans,19,CL
+1754,Cheese,0,CL
+1754,Corn,3491,CL
+1754,Deer Skin,0,CL
+1754,Handspikes,0,CL
+1754,Heading,3,CL
+1754,Hoops,0,CL
+1754,Iron,137,CL
+1754,Logs,0,CL
+1754,Logs,0,CL
+1754,Logs (walnut),0,CL
+1754,Peas,9,CL
+1754,Pig iron,1972,CL
+1754,Plank,1,CL
+1754,Plank,19,CL
+1754,Planks,19,CL
+1754,Pork,27,CL
+1754,Rum,3,CL
+1754,Rum,4328,CL
+1754,Rum,3,CL
+1754,Shingles,0,CL
+1754,Staves,842,CL
+1754,Tobacco,69841,CL
+1754,Wheat,15,CL
+1754,Wine,164,CL
+1754,,,CL
+1755,Beans,4,CL
+1755,Corn,1419,CL
+1755,Cotton,0,CL
+1755,Cotton,0,CL
+1755,Deer Skin,0,CL
+1755,Deer Skins,0,CL
+1755,Deer Skins,0,CL
+1755,Ginger,0,CL
+1755,Handspikes,0,CL
+1755,Heading,0,CL
+1755,Hoops,0,CL
+1755,Logs (walnut),0,CL
+1755,Peas,5,CL
+1755,Pig iron,2772,CL
+1755,Plank,6,CL
+1755,Planks,0,CL
+1755,Rum,2,CL
+1755,Rum,205,CL
+1755,Salt,4,CL
+1755,Shingles,0,CL
+1755,Staves,0,CL
+1755,Staves (hhds),43,CL
+1755,Tobacco,67848,CL
+1755,Tobacco,2,CL
+1755,Turpentine,0,CL
+1755,Wheat,1,CL
+1755,,,CL
+1758,Beans,20,CL
+1758,Corn,973,CL
+1758,Cotton,21,CL
+1758,Cotton,11,CL
+1758,Handspikes,0,CL
+1758,Hoops,0,CL
+1758,Indigo,0,CL
+1758,Indigo,338,CL
+1758,Logs,0,CL
+1758,Logs (walnut),0,CL
+1758,Pig iron,1,CL
+1758,Pig iron,3343,CL
+1758,Plank,13,CL
+1758,Pork,5,CL
+1758,Pork,47,CL
+1758,Rum,40,CL
+1758,Rye,1,CL
+1758,Shingles,0,CL
+1758,Staves,1462,CL
+1758,Tar,564,CL
+1758,Tobacco,87687,CL
+1758,Wheat,149,CL
+1758,Wine,79,CL
+1758,,,CL
+1760,Bar iron,185,CL
+1760,Bar iron,10,CL
+1760,Bar iron,2,CL
+1760,Corn,1147,CL
+1760,Cotton,9,CL
+1760,Cotton,10,CL
+1760,Deer Skins,0,CL
+1760,Furs,0,CL
+1760,Handspikes,0,CL
+1760,Heading,4,CL
+1760,Hoops,0,CL
+1760,Indigo,193,CL
+1760,Indigo,0,CL
+1760,Logs,0,CL
+1760,Peas,64,CL
+1760,Pig iron,6559,CL
+1760,Plank,1,CL
+1760,Plank,2,CL
+1760,Planks,37,CL
+1760,Pork,28,CL
+1760,Rum,157,CL
+1760,Rum,16,CL
+1760,Shingles,0,CL
+1760,Staves,1762,CL
+1760,Tobacco,141722,CL
+1760,Turpentine,1,CL
+1760,Wheat,225,CL
+1760,Wine,32,CL
+1760,,,CL
+1761,Corn,1211,CL
+1761,Deer Skins,0,CL
+1761,Handspikes,0,CL
+1761,Heading,1,CL
+1761,Hoops,0,CL
+1761,Indigo,0,CL
+1761,Indigo,53,CL
+1761,Logs (walnut),0,CL
+1761,Peas/beans,8,CL
+1761,Pig iron,3,CL
+1761,Pig iron,4012,CL
+1761,Plank,5,CL
+1761,Planks,4,CL
+1761,Pork,21,CL
+1761,Rum,24,CL
+1761,Salt,0,CL
+1761,Shingles,0,CL
+1761,Spirits,3,CL
+1761,Staves,2755,CL
+1761,Tobacco,110998,CL
+1761,Wheat,17,CL
+1761,Wine,28,CL
+1761,,,CL
+1762,Bar iron,213,CL
+1762,Corn,3096,CL
+1762,Cotton,42,CL
+1762,Deer Skins,0,CL
+1762,Furs,0,CL
+1762,Handspikes,0,CL
+1762,Hoops,0,CL
+1762,Logs,0,CL
+1762,Logs (walnut),0,CL
+1762,Peas/beans,6,CL
+1762,Pig iron,1,CL
+1762,Pig iron,4070,CL
+1762,Pitch,4,CL
+1762,Plank,1,CL
+1762,Plank,1,CL
+1762,Pork,75,CL
+1762,Rum,9,CL
+1762,Rum,176,CL
+1762,Shingles,0,CL
+1762,Ship bread,15,CL
+1762,Spirits,10,CL
+1762,Staves,2629,CL
+1762,Tar,520,CL
+1762,Tobacco,107492,CL
+1762,Turpentine,6,CL
+1762,Wheat,16,CL
+1762,Wine,58,CL
+1762,,,CL
+1763,Bread,50,CL
+1763,Corn,2927,CL
+1763,Flour,3,CL
+1763,Flour,7,CL
+1763,Flour,0,CL
+1763,Handspikes,0,CL
+1763,Hoops,0,CL
+1763,Peas/beans,18,CL
+1763,Pig iron,2762,CL
+1763,Plank,3,CL
+1763,Plank,3,CL
+1763,Planks,5,CL
+1763,Pork,8,CL
+1763,Pork,28,CL
+1763,Rum,113,CL
+1763,Shingles,0,CL
+1763,Staves,12818,CL
+1763,Tobacco,79878,CL
+1763,Wheat,11,CL
+1763,Wine,57,CL
+1763,,,CL
+1764,Bar iron,576,CL
+1764,Bar iron,24,CL
+1764,Beef,347,CL
+1764,Beef,62,CL
+1764,Bread,0,CL
+1764,Bread,24,CL
+1764,Bread,7,CL
+1764,Corn,3593,CL
+1764,Deer Skins,0,CL
+1764,Deer Skins,0,CL
+1764,Deer Skins,0,CL
+1764,Flaxseed,0,CL
+1764,Flour,117,CL
+1764,Flour,82,CL
+1764,Handspikes,0,CL
+1764,Hemp,127,CL
+1764,Hoops,0,CL
+1764,Logs,0,CL
+1764,Logs (walnut),0,CL
+1764,Negroes,313,CL
+1764,Oats,6,CL
+1764,Peas,7,CL
+1764,Peas/beans,64,CL
+1764,Pig iron,3,CL
+1764,Pig iron,2670,CL
+1764,Plank,31,CL
+1764,Planks,66,CL
+1764,Pork,20,CL
+1764,Potatoes,0,CL
+1764,Rum,298,CL
+1764,Rum,3,CL
+1764,Salt,3,CL
+1764,Shingles,0,CL
+1764,Spirits,3,CL
+1764,Staves,1182,CL
+1764,Sugar,8,CL
+1764,Tar,38,CL
+1764,Tobacco,75125,CL
+1764,Wax,0,CL
+1764,Wheat,405,CL
+1764,Wine,14,CL
+1764,Wine,146,CL
+1764,Wine,15,CL
+1764,,,CL
+1765,Bar iron,537,CL
+1765,Bar iron,0,CL
+1765,Bar iron,1,CL
+1765,Bread,13,CL
+1765,Bread,10,CL
+1765,Cheese,0,CL
+1765,Chocolate,0,CL
+1765,Corn,5215,CL
+1765,Cotton,4,CL
+1765,Deer Skin,0,CL
+1765,Deer Skins,0,CL
+1765,Flour,141,CL
+1765,Handspikes,0,CL
+1765,Hemp,2,CL
+1765,Hemp,105,CL
+1765,Hemp,0,CL
+1765,Hemp,202,CL
+1765,Hoops,0,CL
+1765,Logs,0,CL
+1765,Logs (walnut),0,CL
+1765,Peas,61,CL
+1765,Peas/beans,12,CL
+1765,Pig iron,2915,CL
+1765,Pig iron,3,CL
+1765,Plank,17,CL
+1765,Plank,19,CL
+1765,Plank,4,CL
+1765,Planks,0,CL
+1765,Pork,293,CL
+1765,Pork,12,CL
+1765,Rum,18,CL
+1765,Rum,224,CL
+1765,Shingles,0,CL
+1765,Skins,0,CL
+1765,Staves,1464,CL
+1765,Tar,2,CL
+1765,Tea,0,CL
+1765,Tobacco,71111,CL
+1765,Wheat,454,CL
+1765,,,CL
+1766,Bar iron,1161,CL
+1766,Bar iron,2,CL
+1766,Bar iron,0,CL
+1766,Bar iron,0,CL
+1766,Cheese,0,CL
+1766,Coffee,0,CL
+1766,Corn,3813,CL
+1766,Cotton,10,CL
+1766,Flaxseed,0,CL
+1766,Flour,151,CL
+1766,Flour,3,CL
+1766,Flour,5,CL
+1766,Furs and skins,0,CL
+1766,Hemp,0,CL
+1766,Hemp,14,CL
+1766,Hemp,99,CL
+1766,Hemp,0,CL
+1766,Hoops,0,CL
+1766,Peas,62,CL
+1766,Pig iron,0,CL
+1766,Pig iron,2,CL
+1766,Pig iron,2059,CL
+1766,Pig iron,0,CL
+1766,Plank,202,CL
+1766,Pork,236,CL
+1766,Rum,19,CL
+1766,Shingles,0,CL
+1766,Skins,0,CL
+1766,Skins,0,CL
+1766,Skins,0,CL
+1766,Skins,0,CL
+1766,Spirits,3,CL
+1766,Staves,1409,CL
+1766,Tobacco,70740,CL
+1766,Wheat,3019,CL
+1766,Wine,38,CL
+1766,Wine,90,CL
+1766,Wine,60,CL
+1766,,,CL
+1768,Bar iron,81,CL
+1768,Bar iron,0,CL
+1768,Bar iron,2,CL
+1768,Bar iron,1011,CL
+1768,Bread and flour,1671,CL
+1768,Corn,55,CL
+1768,Corn,6297,CL
+1768,Cotton,49,CL
+1768,Flaxseed,0,CL
+1768,Flaxseed,0,CL
+1768,Flaxseed,0,CL
+1768,Handspikes,0,CL
+1768,Hemp,4,CL
+1768,Hemp,160,CL
+1768,Hemp,1,CL
+1768,Hemp,3670,CL
+1768,Hoops,0,CL
+1768,Logs,0,CL
+1768,Molasses,11,CL
+1768,Peas,129,CL
+1768,Peas,4,CL
+1768,Peas,0,CL
+1768,Peas/beans,107,CL
+1768,Pig iron,1380,CL
+1768,Plank,69,CL
+1768,Pork,3,CL
+1768,Pork,469,CL
+1768,Rum,85,CL
+1768,Shingles,0,CL
+1768,Skins,0,CL
+1768,Skins,0,CL
+1768,Staves,1073,CL
+1768,Sugar,38,CL
+1768,Tobacco,72689,CL
+1768,Wax,0,CL
+1768,Wheat,616,CL
+1768,Wine,7,CL
+1768,,,CL
+1769,Bar iron,44,CL
+1769,Bar iron,1482,CL
+1769,Bar iron,0,CL
+1769,Bar iron,1,CL
+1769,Bread,24,CL
+1769,Bread and flour,4262,CL
+1769,Chocolate,0,CL
+1769,Corn,7794,CL
+1769,Deer Skins,0,CL
+1769,Flaxseed,0,CL
+1769,Flaxseed,0,CL
+1769,Handspikes,0,CL
+1769,Hemp,2346,CL
+1769,Hemp,3,CL
+1769,Hemp,1,CL
+1769,Hemp,67,CL
+1769,Hoops,0,CL
+1769,Indigo,0,CL
+1769,Iron,201,CL
+1769,Logs,0,CL
+1769,Logs (walnut),0,CL
+1769,Peas/beans,76,CL
+1769,Pig iron,1587,CL
+1769,Plank,17,CL
+1769,Pork,1,CL
+1769,Pork,5,CL
+1769,Rum,121,CL
+1769,Rye,16,CL
+1769,Salt,1,CL
+1769,Shingles,0,CL
+1769,Skins,0,CL
+1769,Staves,205,CL
+1769,Staves and heading,738,CL
+1769,Sugar,10,CL
+1769,Tea,0,CL
+1769,Tobacco,90722,CL
+1769,Wheat,1380,CL
+1769,Wine,38,CL
+1769,Wine,30,CL
+1769,,,CL
+1771,Bar iron,87,CL
+1771,Bar iron,14,CL
+1771,Bar iron,0,CL
+1771,Bread,28,CL
+1771,Bread and flour,4076,CL
+1771,Chocolate,0,CL
+1771,Corn,7529,CL
+1771,Cotton,4,CL
+1771,Flax,0,CL
+1771,Furs and skins,0,CL
+1771,Furs and skins,0,CL
+1771,Furs and skins,0,CL
+1771,Handspikes,0,CL
+1771,Hemp,44,CL
+1771,Hemp,313,CL
+1771,Hoops,0,CL
+1771,Linen,0,CL
+1771,Molasses,2,CL
+1771,Molasses,1,CL
+1771,Molasses,16,CL
+1771,Oats,21,CL
+1771,Peas,37,CL
+1771,Peas/beans,124,CL
+1771,Pig iron,2564,CL
+1771,Plank,10,CL
+1771,Pork,58,CL
+1771,Rum,6,CL
+1771,Rum,127,CL
+1771,Rye,6,CL
+1771,Salt,9,CL
+1771,Salt,2,CL
+1771,Shingles,0,CL
+1771,Ship bread,25,CL
+1771,Skins,0,CL
+1771,Staves,65,CL
+1771,Staves and heading,1590,CL
+1771,Tobacco,148701,CL
+1771,Turpentine,17,CL
+1771,Wax,0,CL
+1771,Wheat,626,CL
+1771,,,CL

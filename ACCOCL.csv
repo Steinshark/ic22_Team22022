@@ -1,0 +1,430 @@
+year,good,value,movement_type
+1725,Corn,356,CL
+1725,Deer skins (raw),0,CL
+1725,Logs (walnut),0,CL
+1725,Plank,0,CL
+1725,Pork,42,CL
+1725,Staves (barrels),3,CL
+1725,Staves (hhds),14,CL
+1725,Staves (pipes),3,CL
+1725,Tobacco,1592,CL
+1725,Wheat,94,CL
+1727,Beef,6,CL
+1727,Corn,1105,CL
+1727,Deer Skins,0,CL
+1727,Deer skins (raw),0,CL
+1727,Plank,1,CL
+1727,Pork,177,CL
+1727,Rye,2,CL
+1727,Staves (barrels),3,CL
+1727,Staves (hhds),37,CL
+1727,Staves (pipes),6,CL
+1727,Tobacco,1,CL
+1727,Tobacco,1012,CL
+1727,Tobacco,2,CL
+1727,Tobacco,16,CL
+1727,Wheat,257,CL
+1730,Beans,4,CL
+1730,Beef,59,CL
+1730,Corn,989,CL
+1730,Deer Skin,0,CL
+1730,Peas,2,CL
+1730,Pork,17,CL
+1730,Pork,354,CL
+1730,Rum,9,CL
+1730,Rum,6,CL
+1730,Rum,2,CL
+1730,Staves,1,CL
+1730,Staves (hhds),5,CL
+1730,Staves (pipes),18,CL
+1730,Wax,0,CL
+1730,Wheat,594,CL
+1730,Wheat,73,CL
+1731,Beans,2,CL
+1731,Beef,4,CL
+1731,Corn,1021,CL
+1731,Deer skins (raw),0,CL
+1731,Heading,0,CL
+1731,Plank,3,CL
+1731,Pork,1,CL
+1731,Pork,280,CL
+1731,Rum,10,CL
+1731,Rum,27,CL
+1731,Rye,4,CL
+1731,Staves (barrels),1,CL
+1731,Wax,0,CL
+1731,Wheat,188,CL
+1732,Beans,4,CL
+1732,Corn,1117,CL
+1732,Deer skins (raw),0,CL
+1732,Oats,39,CL
+1732,Peas,1,CL
+1732,Plank,6,CL
+1732,Pork,111,CL
+1732,Pork,642,CL
+1732,Rum,57,CL
+1732,Rye,810,CL
+1732,Salt,14,CL
+1732,Staves (barrels),1,CL
+1732,Staves (hhds),44,CL
+1732,Wax,0,CL
+1732,Wheat,24,CL
+1732,Wheat,555,CL
+1733,Beans,12,CL
+1733,Beef,24,CL
+1733,Corn,1208,CL
+1733,Deer Skins,0,CL
+1733,Negroes,37,CL
+1733,Plank,2,CL
+1733,Pork,47,CL
+1733,Pork,9,CL
+1733,Pork,79,CL
+1733,Rum,14,CL
+1733,Rum,19,CL
+1733,Rum,2,CL
+1733,Staves (barrels),8,CL
+1733,Staves (hhds),4,CL
+1733,Staves and heading,8,CL
+1733,Tobacco,647,CL
+1733,Wax,0,CL
+1733,Wheat,332,CL
+1734,Beans,3,CL
+1734,Beef,3,CL
+1734,Corn,1520,CL
+1734,Deer Skins,0,CL
+1734,Indigo,0,CL
+1734,Plank,1,CL
+1734,Pork,117,CL
+1734,Pork,261,CL
+1734,Rum,8,CL
+1734,Rum,4,CL
+1734,Rye,8,CL
+1734,Staves,1,CL
+1734,Staves (barrels),7,CL
+1734,Staves (pipes),33,CL
+1734,Staves and heading,4,CL
+1734,Tar,20,CL
+1734,Turpentine,31,CL
+1734,Wax,0,CL
+1734,Wheat,285,CL
+1746,Corn,1176,CL
+1746,Flaxseed,0,CL
+1746,Flaxseed,3,CL
+1746,Oats,121,CL
+1746,Peas,2,CL
+1746,Pork,1,CL
+1746,Pork,85,CL
+1746,Potatoes,0,CL
+1746,Rum,35,CL
+1746,Staves (barrels),3,CL
+1746,Tobacco,2,CL
+1746,Wax,0,CL
+1746,Wheat,44,CL
+1749,Beans,5,CL
+1749,Corn,2879,CL
+1749,Flaxseed,13,CL
+1749,Hoops,0,CL
+1749,Molasses,0,CL
+1749,Oats,431,CL
+1749,Peas,68,CL
+1749,Plank,12,CL
+1749,Pork,228,CL
+1749,Pork,144,CL
+1749,Salt,64,CL
+1749,Staves,12,CL
+1749,Staves and heading,9,CL
+1749,Sugar,8,CL
+1749,Tobacco,20,CL
+1749,Turpentine,4,CL
+1749,Wax,0,CL
+1749,Wheat,33,CL
+1752,Corn,3391,CL
+1752,Flaxseed,229,CL
+1752,Flaxseed,0,CL
+1752,Hoops,0,CL
+1752,Oats,926,CL
+1752,Peas,35,CL
+1752,Plank,11,CL
+1752,Plank,32,CL
+1752,Pork,2,CL
+1752,Pork,54,CL
+1752,Potatoes,0,CL
+1752,Rum,61,CL
+1752,Rum,16,CL
+1752,Shingles,0,CL
+1752,Staves,46,CL
+1752,Tobacco,19,CL
+1752,Wax,0,CL
+1752,Wheat,2,CL
+1759,Beans,70,CL
+1759,Bread,0,CL
+1759,Coffee,0,CL
+1759,Corn,5151,CL
+1759,Flaxseed,0,CL
+1759,Flaxseed,501,CL
+1759,Flour,19,CL
+1759,Hoops,0,CL
+1759,Oats,960,CL
+1759,Peas,22,CL
+1759,Plank,1,CL
+1759,Poles (hoop),0,CL
+1759,Pork,645,CL
+1759,Potatoes,0,CL
+1759,Salt,2,CL
+1759,Shingles,0,CL
+1759,Staves (barrels),8,CL
+1759,Staves (hhds),19,CL
+1759,Tobacco,54,CL
+1759,Wax,0,CL
+1759,Wheat,977,CL
+1760,Bread,8,CL
+1760,Corn,3016,CL
+1760,Flaxseed,0,CL
+1760,Flaxseed,128,CL
+1760,Flaxseed,0,CL
+1760,Flour,25,CL
+1760,Oats,1051,CL
+1760,Peas,47,CL
+1760,Plank,0,CL
+1760,Plank,14,CL
+1760,Pork,9,CL
+1760,Pork,103,CL
+1760,Potatoes,0,CL
+1760,Shingles,0,CL
+1760,Staves,202,CL
+1760,Staves (barrels),17,CL
+1760,Tobacco,84,CL
+1760,Wax,0,CL
+1760,Wheat,822,CL
+1761,Beans,3,CL
+1761,Beans,0,CL
+1761,Beef,5,CL
+1761,Corn,3249,CL
+1761,Flaxseed,0,CL
+1761,Flaxseed,0,CL
+1761,Flaxseed,0,CL
+1761,Flaxseed,119,CL
+1761,Flaxseed,0,CL
+1761,Oats,1110,CL
+1761,Peas,0,CL
+1761,Peas,18,CL
+1761,Plank,8,CL
+1761,Pork,398,CL
+1761,Potatoes,0,CL
+1761,Rum,7,CL
+1761,Rum,131,CL
+1761,Rum,36,CL
+1761,Rye,1,CL
+1761,Staves,3,CL
+1761,Staves (barrels),74,CL
+1761,Staves (hhds),50,CL
+1761,Staves (pipes),31,CL
+1761,Tobacco,21,CL
+1761,Wheat,316,CL
+1761,Wine,0,CL
+1762,Beans,2,CL
+1762,Corn,8706,CL
+1762,Flaxseed,0,CL
+1762,Flaxseed,293,CL
+1762,Flaxseed,0,CL
+1762,Flaxseed,0,CL
+1762,Flour,9,CL
+1762,Hoops,0,CL
+1762,Iron,7,CL
+1762,Oats,3376,CL
+1762,Peas,36,CL
+1762,Plank,18,CL
+1762,Pork,22,CL
+1762,Pork,7,CL
+1762,Pork,247,CL
+1762,Potatoes,0,CL
+1762,Rice,0,CL
+1762,Rye,10,CL
+1762,Shingles,0,CL
+1762,Staves,76,CL
+1762,Staves (barrels),63,CL
+1762,Staves (hhds),46,CL
+1762,Tobacco,2,CL
+1762,Wheat,564,CL
+1765,Beans,2,CL
+1765,Bread,31,CL
+1765,Chocolate,0,CL
+1765,Coffee,0,CL
+1765,Corn,7017,CL
+1765,Cotton,6,CL
+1765,Flaxseed,0,CL
+1765,Flaxseed,0,CL
+1765,Flaxseed,0,CL
+1765,Flaxseed,0,CL
+1765,Flaxseed,47,CL
+1765,Flour,52,CL
+1765,Heading,8,CL
+1765,Loaf sugar,14,CL
+1765,Molasses,241,CL
+1765,Molasses,16,CL
+1765,Molasses,4506,CL
+1765,Oats,4096,CL
+1765,Peas,31,CL
+1765,Plank,4,CL
+1765,Pork,15,CL
+1765,Pork,146,CL
+1765,Potatoes,0,CL
+1765,Rum,2,CL
+1765,Rye,0,CL
+1765,Salt,121,CL
+1765,Shingles,0,CL
+1765,Shingles,0,CL
+1765,Ship bread,1,CL
+1765,Ship bread,3,CL
+1765,Spirits,4,CL
+1765,Staves,1,CL
+1765,Staves,24,CL
+1765,Staves (barrels),29,CL
+1765,Staves (hhd),0,CL
+1765,Staves (hhds),19,CL
+1765,Staves (pipes),14,CL
+1765,Staves and heading,28,CL
+1765,Staves and heading,4,CL
+1765,Sugar,323,CL
+1765,Sugar,23,CL
+1765,Tobacco,71,CL
+1765,Wax,0,CL
+1765,Wax,0,CL
+1765,Wheat,362,CL
+1765,Wheat,0,CL
+1765,Wine,14,CL
+1766,Bar iron,71,CL
+1766,Bar iron,14,CL
+1766,Bread,63,CL
+1766,Corn,1,CL
+1766,Corn,2160,CL
+1766,Flaxseed,0,CL
+1766,Flaxseed,0,CL
+1766,Flaxseed,0,CL
+1766,Flaxseed,0,CL
+1766,Flaxseed,119,CL
+1766,Flour,41,CL
+1766,Hemp,1,CL
+1766,Oats,2841,CL
+1766,Peas,3,CL
+1766,Peas,1,CL
+1766,Peas,14,CL
+1766,Plank,39,CL
+1766,Plank,7,CL
+1766,Plank,0,CL
+1766,Poles (hoop),0,CL
+1766,Pork,8,CL
+1766,Pork,5,CL
+1766,Pork,71,CL
+1766,Potatoes,0,CL
+1766,Rum,5,CL
+1766,Rye,2,CL
+1766,Salt,81,CL
+1766,Shingles,0,CL
+1766,Staves,137,CL
+1766,Staves (barrel),37,CL
+1766,Staves (hhd),174,CL
+1766,Staves (hhds),1,CL
+1766,Staves (pipe),29,CL
+1766,Sugar,580,CL
+1766,Sugar,1173,CL
+1766,Sugar,68,CL
+1766,Sugar,0,CL
+1766,Sugar,0,CL
+1766,Sugar,15,CL
+1766,Sugar,14,CL
+1766,Tobacco,131,CL
+1766,Wax,0,CL
+1766,Wheat,2,CL
+1766,Wheat,739,CL
+1766,Wine,14,CL
+1766,Wine,30,CL
+1768,Beans,4,CL
+1768,Corn,5396,CL
+1768,Flaxseed,0,CL
+1768,Flaxseed,25,CL
+1768,Flaxseed,0,CL
+1768,Flour,40,CL
+1768,Oats,982,CL
+1768,Peas,2,CL
+1768,Peas,73,CL
+1768,Plank,10,CL
+1768,Pork,6,CL
+1768,Pork,2,CL
+1768,Pork,33,CL
+1768,Potatoes,0,CL
+1768,Rum,11,CL
+1768,Rum,12,CL
+1768,Rye,24,CL
+1768,Shingles,0,CL
+1768,Shingles,0,CL
+1768,Staves (barrel),22,CL
+1768,Staves (barrels),5,CL
+1768,Staves (hhd),48,CL
+1768,Staves (hhds),39,CL
+1768,Staves (pipes),4,CL
+1768,Staves and heading,3,CL
+1768,Tobacco,41,CL
+1768,Wheat,1345,CL
+1769,Bar iron,44,CL
+1769,Beans,1,CL
+1769,Beef,0,CL
+1769,Corn,9160,CL
+1769,Flaxseed,243,CL
+1769,Flaxseed,0,CL
+1769,Flaxseed,0,CL
+1769,Flour,712,CL
+1769,Heading,3,CL
+1769,Heading (hhds),3,CL
+1769,Hoops,0,CL
+1769,Hoops,0,CL
+1769,Loaf sugar,17,CL
+1769,Oats,1752,CL
+1769,Peas,21,CL
+1769,Plank,0,CL
+1769,Plank,1,CL
+1769,Pork,184,CL
+1769,Pork,5,CL
+1769,Potatoes,0,CL
+1769,Rum,44,CL
+1769,Rum,94,CL
+1769,Rye,31,CL
+1769,Shingles,0,CL
+1769,Shingles,0,CL
+1769,Staves,6,CL
+1769,Staves (barrels),8,CL
+1769,Staves (hhd),45,CL
+1769,Staves (hhds),30,CL
+1769,Staves and heading,10,CL
+1769,Sugar,5,CL
+1769,Tea,0,CL
+1769,Tea,6,CL
+1769,Tobacco,39,CL
+1769,Wax,0,CL
+1769,Wheat,2012,CL
+1771,Beans,0,CL
+1771,Beef,3,CL
+1771,Bread,3,CL
+1771,Corn,5496,CL
+1771,Flaxseed,378,CL
+1771,Heading,12,CL
+1771,Heading (hhd),4,CL
+1771,Hoops,0,CL
+1771,Oats,859,CL
+1771,Peas,108,CL
+1771,Peas/beans,2,CL
+1771,Plank,41,CL
+1771,Plank,3,CL
+1771,Pork,29,CL
+1771,Rye,7,CL
+1771,Shingles,0,CL
+1771,Staves,8,CL
+1771,Staves,6,CL
+1771,Staves (barrels),12,CL
+1771,Staves (hhd),86,CL
+1771,Staves (hhds),58,CL
+1771,Staves and heading,41,CL
+1771,Staves and heading,4,CL
+1771,Tar and turpentine,5,CL
+1771,Tobacco,57,CL
+1771,Wheat,2297,CL
