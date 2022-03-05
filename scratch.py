@@ -13,6 +13,8 @@ port_to_region = {	'ACCO' : 'NA',
 
 regions = ["NA","GB","AFR","IRE",'NEU',"SEU","WI"]
 
+dump = "dataDUMP"
+
 def write_data():
 	# We are in 
 	data_dir =  "D:\\classes\\si470\\ic22\\data"
@@ -88,7 +90,7 @@ def aggregate_datae():
 
 def write_all():
 	# We are in 
-	data_dir =  "D:\\classes\\si470\\ic22\\data"
+	data_dir =  "data"
 
 
 
@@ -104,6 +106,9 @@ def write_all():
 
 		port = location_dir[:4]
 		cwd = os.path.join(data_dir,location_dir)	
+
+		if not len(location_dir) == 6:
+			continue
 		movements[movement_type][port] = {}
 
 		for year_csv in os.listdir(cwd):
@@ -139,15 +144,41 @@ def write_all():
 						info['year'] = year
 						info['direction'] = movement_type
 						info['origin'] = port
+
 						for d in deliveries:
 							for i in info:
 								d[i] = info[i]
 
-						raw.append({'movement_type':movement_type, 'port' : port,'year':year,'good':good,'total_value':total_value})
+							raw.append(d)
 	a = json.dumps(raw)
 	open("dataDUMP",'w').write(a)
 
-#write_data()
-#data_table = pd.read_csv('full_data.csv')
 
-write_all()
+
+def plot():
+	text_dump = open(dump,'r').read()
+
+	transaction_list = json.loads(text_dump)
+
+	# Find all headers 
+	goods = {}
+	for t in transaction_list:
+		if not t['good'] in goods:
+			this_good = t['good']
+			this_good_o = t['origin']
+			goods[this_good] = {'count':0, 'origin':[]}
+			goods[this_good]['count'] = 1
+			goods[this_good]['origin'] = [t['origin']]
+
+		else:
+			goods[this_good]['count'] += 1
+			if not t['origin'] in goods[this_good]['origin']:
+				goods[this_good]['origin'].append(t['origin'])
+
+	print(goods.keys())
+
+
+
+
+#write_all()
+plot()
