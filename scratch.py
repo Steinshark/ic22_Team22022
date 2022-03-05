@@ -155,7 +155,7 @@ def write_all():
 
 
 
-def plot():
+def plot_grains():
 	text_dump = open(dump,'r').read()
 
 	transaction_list = json.loads(text_dump)
@@ -175,10 +175,109 @@ def plot():
 			if not t['origin'] in goods[this_good]['origin']:
 				goods[this_good]['origin'].append(t['origin'])
 
-	print(goods.keys())
+	
+	entering_ann = {}
+	leaving_ann	= {}
+
+	looking_for = ["Corn","Wheat","Oats ","Flour and bread","Flour and biscuit","Flax ","Bread and flour","Flour",'RegionSummary']
 
 
+
+
+	for t in transaction_list:
+		if t['origin'] == 'ANNA' and t['good'] in looking_for:
+
+			good = t['good']
+			year = t['year']
+			val = float(t['total_value'])
+			direction = t['direction']
+
+
+			if t['direction'] == 'EN':
+
+				if good in entering_ann:
+					entering_ann[good].append({'year':year,'val':val})
+				else:
+					entering_ann[good] = [{'year':year,'val':val}]
+
+			elif t['direction'] == 'CL':
+				if good in leaving_ann:
+					leaving_ann[good].append({'year':year,'val':val})
+				else:
+					leaving_ann[good] = [{'year':year,'val':val}]
+
+
+
+	fig,ax = plt.subplots(2)					
+	for good in entering_ann:
+		ax[0].plot([i['year'] for i in entering_ann[good]],[i['val'] for i in entering_ann[good]],label=good)
+
+	for good in leaving_ann:
+		ax[1].plot([i['year'] for i in leaving_ann[good]],[i['val'] for i in leaving_ann[good]],label=good)
+	
+	plt.legend()
+	plt.show()
+
+
+
+def plot_tobacco():
+	text_dump = open(dump,'r').read()
+
+	transaction_list = json.loads(text_dump)
+
+	# Find all headers 
+	goods = {}
+
+	for t in transaction_list:
+		if not t['good'] in goods:
+			this_good = t['good']
+			this_good_o = t['origin']
+			goods[this_good] = {'count':0, 'origin':[]}
+			goods[this_good]['count'] = 1
+			goods[this_good]['origin'] = [t['origin']]
+
+		else:
+			goods[this_good]['count'] += 1
+			if not t['origin'] in goods[this_good]['origin']:
+				goods[this_good]['origin'].append(t['origin'])
+
+
+	leaving_for_gb = {}
+	leaving_for_wi = {}
+
+	'ACCO'
+	'JRLO'
+
+	tobacco_to_gb = open("tobacco_to_gb.csv",'w')
+	tobacco_to_wi = open("tobacco_to_wi",'w')
+	tobacco_to_wi.write('year,amount\n')
+	tobacco_to_gb.write('year,amount\n')
+
+	for t in transaction_list:
+		good = t['good']
+		try:
+			year = int(t['year'])
+			val = float(t['total_value'])
+		except ValueError:
+			continue
+		dest = t['destination']
+		origin = t['origin']
+		direction = t['direction']
+
+
+		if not good == 'Tobacco' or not direction == 'CL' or not origin in ['ACCO',"JRLO"]:
+			continue 
+		
+		if dest == 'GB':
+			tobacco_to_gb.write(f"{year},{val}\n")
+		elif dest =='WI':
+			tobacco_to_wi.write(f"{year},{val}\n")
+
+	tobacco_to_wi.close()
+	tobacco_to_gb.close()
+
+			
 
 
 #write_all()
-plot()
+plot_tobacco()
